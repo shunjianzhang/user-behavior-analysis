@@ -1,0 +1,5 @@
+# 原始数据太大，不传 GitHub
+data/
+*.csv
+UserBehavior.csv
+UserBehavior_subset.csv
